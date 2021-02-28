@@ -1,1 +1,3 @@
-# AddStampBot
+# 概要
+指定したSlackチャンネルにスタンプを押すBotです。
+Slackチャンネル/スタンプ/
